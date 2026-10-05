@@ -1,0 +1,9 @@
+﻿Study ID,Deliverable ID,Deliverable Type,Deliverable Name,Owner,Planned Date,Due Date,Completion Date,Status,Priority,Days Overdue,Overall Check,Notes
+ST-001,DEL-001,Study Document,Final Study Protocol,Ana Markovic Smith,8/1/2026,8/5/2026,8/5/2026,Completed,High,0,PASS,Final approved protocol
+ST-001,DEL-002,Regulatory,Regulatory Submission Package,Jelena Nikolic,8/3/2026,8/10/2026,,Overdue,Critical,43,FAIL,Submission package incomplete
+ST-001,DEL-003,TMF,TMF Filing Package,Marko Petrovic,8/5/2026,8/12/2026,,In Progress,High,41,PASS,Filing in progress
+ST-001,DEL-004,Data,Database Review Report,Stefan Ilic,8/8/2026,8/15/2026,8/15/2026,Completed,Medium,0,PASS,Database review completed
+ST-002,DEL-005,Study Document,Monitoring Plan,Ana Markovic Smith,8/15/2026,8/22/2026,,Draft,High,31,PASS,Awaiting final review
+ST-002,DEL-006,Site Management,Site Initiation Report,Marko Petrovic,8/18/2026,8/20/2026,8/20/2026,Completed,Medium,0,PASS,Site initiation completed
+ST-002,DEL-007,Data,Data Management Plan,Stefan Ilic,8/20/2026,8/25/2026,,In Progress,High,28,PASS,Data management review ongoing
+ST-002,DEL-008,Regulatory,Ethics Committee Submission,Jelena Nikolic,8/20/2026,8/28/2026,,Overdue,Critical,25,FAIL,Submission delayed

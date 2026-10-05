@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "employeeId": "EMP001",
+      "courseCode": "CRS002",
+      "trainingStatus": "Completed",
+      "completedAt": "2026-10-01T14:30:00Z"
+    },
+    {
+      "employeeId": "EMP003",
+      "courseCode": "CRS004",
+      "trainingStatus": "In Progress",
+      "completedAt": null
+    },
+    {
+      "employeeId": "EMP999",
+      "courseCode": "CRS001",
+      "trainingStatus": "Completed",
+      "completedAt": "2026-10-02T09:00:00Z"
+    }
+  ]
+}

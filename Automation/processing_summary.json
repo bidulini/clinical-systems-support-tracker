@@ -1,0 +1,8 @@
+{
+  "totalRecords": 3,
+  "accepted": 2,
+  "rejected": 1,
+  "rejectionReasons": {
+    "Invalid Employee ID": 1
+  }
+}

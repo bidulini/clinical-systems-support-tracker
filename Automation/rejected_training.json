@@ -1,0 +1,10 @@
+[
+  {
+    "employeeId": "EMP999",
+    "courseCode": "CRS001",
+    "trainingStatus": "Completed",
+    "completedAt": "2026-10-02T09:00:00Z",
+    "validationStatus": "FAIL",
+    "validationReason": "Invalid Employee ID"
+  }
+]

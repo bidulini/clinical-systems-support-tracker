@@ -1,0 +1,13 @@
+﻿Study ID,Document ID,TMF Zone,Artifact,Document Name,Version,Document Status,Owner,Date Received,Due Date,QC Status,Notes,System Status,Days Overdue,Overall Check
+ST-001,DOC-001,Trial Management,1,Study Plan,1,Approved,Ana Markovic Smith,8/1/2026,8/5/2026,Passed,Final approved version,Completed,0,PASS
+ST-001,DOC-002,Trial Management,2,Protocol,2,Approved,Marko Petrovic,8/3/2026,8/7/2026,Passed,Current protocol version,Completed,0,PASS
+ST-001,DOC-003,Regulatory,1,Regulatory Approval,1,Pending QC,Jelena Nikolic,8/8/2026,8/12/2026,In Review,QC review pending,Overdue,40,FAIL
+ST-001,DOC-004,Safety,1,Safety Management Plan,1,Approved,Stefan Ilic,8/5/2026,8/10/2026,Passed,No issues identified,Completed,0,PASS
+ST-002,DOC-005,Trial Management,3,Monitoring Plan,1,Draft,Ana Markovic Smith,8/15/2026,8/22/2026,Not Started,Awaiting final review,Overdue,30,FAIL
+ST-002,DOC-006,Site Management,1,Site Initiation Report,1,Approved,Marko Petrovic,8/18/2026,8/20/2026,Passed,Filed after site initiation,Completed,0,PASS
+ST-002,DOC-007,Data Management,2,Data Management Plan,1.1,Pending QC,Stefan Ilic,8/20/2026,8/25/2026,Failed,Missing QC evidence,Overdue,27,FAIL
+ST-002,DOC-008,Regulatory,2,Ethics Committee Submission,1,Overdue,Jelena Nikolic,8/20/2026,8/28/2026,Not Started,Submission package incomplete,Overdue,24,FAIL
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

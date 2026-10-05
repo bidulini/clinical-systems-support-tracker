@@ -1,0 +1,9 @@
+﻿Issue ID,Study ID,Issue Date,Issue Category,Description,Priority,Owner,Status,Due Date,Resolution Date,Days Open,Notes,Overdue?
+ISS-001,ST-001,8/3/2026,System Access,CRA unable to access EDC system,High,Ana Markovic Smith,Open,8/5/2026,,49,Access request submitted,Overdue
+ISS-002,ST-001,8/5/2026,Data Discrepancy,Missing subject visit data identified in EDC,Medium,Stefan Ilic,In Progress,8/10/2026,,47,Data review in progress,Overdue
+ISS-003,ST-001,8/8/2026,TMF,Missing essential document in TMF,High,Jelena Nikolic,Open,8/12/2026,,44,Document requested from site,Overdue
+ISS-004,ST-001,8/10/2026,Training,Required GCP training not completed,High,Marko Petrovic,Resolved,8/11/2026,8/11/2026,1,Training completed,On Track
+ISS-005,ST-002,8/15/2026,QC,Incorrect document version identified,Medium,Jelena Nikolic,In Progress,8/20/2026,,37,Correct version requested,Overdue
+ISS-006,ST-002,8/18/2026,System Issue,EDC page not loading for site user,Critical,Stefan Ilic,Open,8/19/2026,,34,Technical investigation required,Overdue
+ISS-007,ST-002,8/22/2026,Submission,Late regulatory submission package,High,Jelena Nikolic,Resolved,8/25/2026,8/24/2026,2,Submission completed,On Track
+ISS-008,ST-002,8/25/2026,Data Quality,Inconsistent subject data detected during review,Medium,Stefan Ilic,Open,8/30/2026,,27,Requires data verification,Overdue

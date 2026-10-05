@@ -1,0 +1,9 @@
+﻿Course ID,Training Name,Category,Required?,Validity Months
+CRS001,GCP Training,GCP,Yes,24
+CRS002,Protocol Training,Protocol,Yes,12
+CRS003,TMF Training,TMF,Yes,12
+CRS004,EDC System Training,Systems,Yes,12
+CRS005,Safety Reporting Training,Safety,Yes,12
+CRS006,ICH Guidelines Refresher,GCP,No,24
+CRS007,Investigator Meeting Training,Protocol,Yes,12
+CRS008,Data Privacy Training,Compliance,Yes,24
